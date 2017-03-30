@@ -7,12 +7,6 @@ Below you find a set of charts demonstrating the paths that you can take and the
 If you think that these can be improved in anyway, please do suggest.
 
 
-***
-
-<p align="center"><b> Want to learn something new?</b><br>Visit <a href="http://hugobots.com">Hugobots</a> where I teach people</p>
-
-***
-
 ## 🚀 Introduction
 
 ![](https://i.imgur.com/qBlT67N.png)
